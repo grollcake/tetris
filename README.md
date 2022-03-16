@@ -8,12 +8,10 @@
 * 온라인 연동 점수표
 * 게임 레벨링 (점수, 스테이지)
 
-
-
 ## Preview
  ![preview](preview.png)
 
-
+[데모앱(Webapp)](https://grollcake.github.io/tetris_web)
 
 ## Technical notes
 
@@ -41,7 +39,6 @@
 * soundpool: 효과음 처리
 * http: 피드백 이메일
 * lottie: 움직이는 배경
-* 
 
 ## Lessons learned
 * 애니메이션 개념 및 구현방법 확실히 학습!
