@@ -11,7 +11,7 @@
 ## Preview
  ![preview](preview.png)
 
-[데모앱(Webapp)](https://grollcake.github.io/tetris_web)
+[데모앱(Webapp)](https://grollcake.github.io/flutter-webapp/tetris)
 
 ## Technical notes
 
