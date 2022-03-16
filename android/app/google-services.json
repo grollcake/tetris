@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "652156923882",
+    "project_id": "tetris-2022",
+    "storage_bucket": "tetris-2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652156923882:android:d69733da4a7d02d0724c93",
+        "android_client_info": {
+          "package_name": "com.example.tetris"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652156923882-fr3fp96785dff1msfmjee5dh2hkagd0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp4nQBc4Fc3UwENdOB7Di7PREsOAKT7rI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652156923882-fr3fp96785dff1msfmjee5dh2hkagd0v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "652156923882-jnrru0i035o02aoua13du3icob0tpcdb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "net.ifwind.tetris"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652156923882:android:0d04ddd78e329f14724c93",
+        "android_client_info": {
+          "package_name": "net.solchan.tetris"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652156923882-fr3fp96785dff1msfmjee5dh2hkagd0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp4nQBc4Fc3UwENdOB7Di7PREsOAKT7rI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652156923882-fr3fp96785dff1msfmjee5dh2hkagd0v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "652156923882-jnrru0i035o02aoua13du3icob0tpcdb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "net.ifwind.tetris"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
